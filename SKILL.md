@@ -4,7 +4,7 @@ description: Approach impossible-seeming goals as both personal achievements and
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3445
+  version: 1.0.3446
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - barrier-breaking-protocol
